@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta TecniBitácora (Azul Industrial Material 3) -->
+    <color name="md_theme_primary">#0D47A1</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#D1E4FF</color>
+    <color name="md_theme_onPrimaryContainer">#001D36</color>
+    <color name="md_theme_secondary">#006494</color>
+    <color name="md_theme_background">#F8FAFC</color>
+    <color name="md_theme_surface">#F8FAFC</color>
+    <color name="md_theme_onSurface">#0F172A</color>
+    <color name="md_theme_onSurfaceVariant">#475569</color>
+</resources>
