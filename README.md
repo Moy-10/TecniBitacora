@@ -1,6 +1,6 @@
 # TecniBitacora - Interfaz de Login (Material Design 3)
 
-Aplicación Android desarrollada en Java con vistas XML, componentes de Material Design 3 y soporte para modo claro y modo oscuro.
+Aplicación Android desarrollada en Java con vistas XML, componentes de Material Design 3 
 
 * **Asignatura:** Diseño y Desarrollo de Interfaces Móviles
 * **Institución:** TESOEM
